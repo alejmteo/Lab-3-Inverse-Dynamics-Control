@@ -1,3 +1,7 @@
+
+#ruta: ~/juanma3_ws/src/Lab-3-Inverse-Dynamics-Control/src/uma_arm_control/utils (main) $ python3 wrench_trackbar_publisher.py
+
+
 import rclpy
 from rclpy.node import Node
 from geometry_msgs.msg import Wrench
